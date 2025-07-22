@@ -208,5 +208,5 @@ __marimo__/
 
 # Meus dados privados do projeto de qualidade da água
 data/*.csv
-data/*.parket
+data/*.parquet
 data/*.pkl
